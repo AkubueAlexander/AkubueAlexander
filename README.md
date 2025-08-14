@@ -29,8 +29,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkubueAleander&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkubueAleander&layout=compact&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkubueAlexander&show_icons=true&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkubueAlexander&layout=compact&theme=radical" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=AkubueAlexander&theme=radical&no-frame=true&margin-w=15" />
+
 </p>
 
 ---
