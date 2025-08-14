@@ -39,7 +39,8 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkubueAleander&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkubueAlexander&theme=radical&no-frame=true&margin-w=15" />
+
 </p>
 
 ---
