@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Laravel%20Artisan%20%7C%20PHP%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Laravel%20Developer%20%7C%20PHP%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </p>
 
 <!-- Laravel Badges -->
